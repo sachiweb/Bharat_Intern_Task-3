@@ -1,5 +1,7 @@
-# MyChat
+Bharat_Intern_Fullstack
+In this repository i have mentioned my 1st task of internship.
 
-## Description 
-A Group video calling application using the Agora Web SDK with a Django backend.
+Task-3:
+task 2 is a video conferencing website that i have created by html,css and js. I have used django for backend and for database part i have used the db-sqlite database . in this app a uesr can able to join video conference with live audio and video .
 
+#thank you
